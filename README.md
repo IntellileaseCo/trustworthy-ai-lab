@@ -1,6 +1,6 @@
 ## trustworthy-ai-lab
 A public research lab exploring how AI systems can become more trustworthy, transparent and auditable.
-The objective is to explore practical methods for building AI systems that are trustworthy, transparent and suitable for deployment in high-stakes domains.
+The objective is to explore practical methods for building AI systems that are trustworthy, transparent and suitable for deployment in high-stakes, regulated environments.
 # Research Areas**
 - AI Oversight
 - Explainability
